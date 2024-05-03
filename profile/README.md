@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+이 프로젝트는 Room1805에 모인 사람들이 진행한 프로젝트입니다. 
+
+<img src="room1802_v2.jpg" width=30%>
+
 <!--
 
 **Here are some ideas to get you started:**
