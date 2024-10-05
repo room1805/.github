@@ -1,8 +1,12 @@
-## Hi there 👋
+## Room 1805 💫
 
 이 프로젝트는 Room1805에 모인 사람들이 진행한 프로젝트입니다. 
 
-<img src="https://github.com/room1805/.github/blob/main/profile/room1802_v2.jpg" width=30%>
+<img src="https://github.com/room1805/.github/blob/main/profile/room1802_v2.jpg" width=50%>
+
+
+
+
 
 <!--
 
