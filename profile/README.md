@@ -12,7 +12,8 @@ Room 1805 프로젝트는 AI의 약점을 파악하고 더 나은 AI 시스템�
 3. **긍정적 영향 극대화**: AI가 인간의 삶에 미치는 긍정적 영향을 극대화합니다.
 
 
-<img src="https://github.com/room1805/.github/blob/main/profile/room1802_v2.jpg" width=50%>
+
+<img src="https://github.com/room1805/.github/blob/main/profile/room1802_v2.jpg" width=20%>
 
 
 
