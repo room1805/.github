@@ -14,6 +14,12 @@ Room 1805 프로젝트는 **AI의 약점을 파악**하고 더 나은 AI 시스�
 <img src="https://github.com/room1805/.github/blob/main/profile/room1802_v2.jpg" width=20%>
 
 
+### 🏝️ Discussion 
+
+- **Classic** Papers [[repo](https://github.com/room1805/ClassicPapers)]
+- **NeurIPS-24** Papers [[repo](https://github.com/room1805/NeurIPS2024)]
+
+
 
 
 
@@ -23,7 +29,7 @@ Room 1805 프로젝트는 **AI의 약점을 파악**하고 더 나은 AI 시스�
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources - where can the community find cyour docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
