@@ -21,6 +21,10 @@ Room 1805 프로젝트는 **AI의 약점을 파악**하고 더 나은 AI 시스�
 
 
 
+- [NLP DATA](https://github.com/room1805/nlp_data)
+- [NLP Models](https://github.com/room1805/nlp_data)
+- [NLP Eval](https://github.com/room1805/nlp_data)
+- [NLP Hiddens](https://github.com/room1805/nlp_data)
 
 
 <!--
